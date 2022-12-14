@@ -8,3 +8,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FastDevelop"
 include ':app'
+include ':util'
+include ':base'
+include ':view'
+include ':third'
